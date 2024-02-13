@@ -1,0 +1,5 @@
+disnake
+asyncio
+pytz
+python-dotenv
+numdeclination
